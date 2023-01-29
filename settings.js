@@ -18,12 +18,12 @@ global.owner = ['32495607080'] //ur owner number
 global.ownername = "ẉa.me/✫ᴹᴿ᭄꙳🆂µråj꙳🆂αɳʝυ᭄★꙳✫" //ur owner name
 global.ytname = "YT: ẉa.me/✫ᴹᴿ᭄꙳🆂µråj꙳🆂αɳʝυ᭄★꙳✫" //ur yt chanel name
 global.socialm = "GitHub: ẉa.me/✫ᴹᴿ᭄꙳🆂µråj꙳🆂αɳʝυ᭄★꙳✫" //ur github or insta name
-global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
+global.location = "India, Colombo, Kiribathgoda" //ur location
 
 //bot bomdy 
 global.ownernomer = "916201114061" //ur number
 global.premium = ['916201114061'] //ur premium number
-global.botname = 'BLACK DRAGON' //ur bot name
+global.botname = '✤𝑺𝒖𝒓𝒂𝒋❀𝑲𝒖𝒎𝒂𝒓✤' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.helacloud.ga" //ur website to be displayed
 global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
